@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github_banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sarthak%20Verma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=22" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sarthak Verma</h1>
